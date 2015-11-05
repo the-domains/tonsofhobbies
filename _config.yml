@@ -1,0 +1,23 @@
+name: tonsofhobbies
+favicon: null
+layout_spectrum: 0.3838325012475252
+typography_spectrum: 0.5467821173369884
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.0748199918307364
+  lightness: 0.38936543744057417
+  saturation: 0.8220841479487717
+  rhythmicContrast: 0.2965487421024591
+purpose: []
